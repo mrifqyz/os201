@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Rifqy's OS Repo
 
-You can use the [editor on GitHub](https://github.com/mrifqyz/os201/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is a simple repository that contains text logs for Operating System course. For througout this semester, there will be total 10 logs on the log folder. So stay tune on my repository for recent updates on my log. ANYWAY, for other information about me you can access it on my upcoming website project that i'm undergo right now. Thanks!
 
 ### Markdown
 
