@@ -28,3 +28,5 @@ This page contains useful links for you to learn and gather information about Op
 ### Disclaimer
 
 You are free to share, copy and redistribute the material of this site in any medium or format for any purpose, even commercially. Please give appropriate credit, provide a link to the page, and indicate if changes were made. You may do so in any reasonable manner. You should not apply legal terms or technological measures, that legally restrict others from doing anything that is permited here.
+
+--mrifqyz
