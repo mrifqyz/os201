@@ -15,7 +15,7 @@ This page contains useful links for you to learn and gather information about Op
 * [FASILKOM UI Operating Systems Course Slide](https://github.com/UI-FASILKOM-OS/SistemOperasi/tree/master/Slides/)
 * [FASILKOM UI Operating Systems Course Demos](https://github.com/UI-FASILKOM-OS/SistemOperasi/tree/master/Demos/)
 * [FASILKOM UI Operating Systems Course SCeLE](https://scele.cs.ui.ac.id/course/view.php?id=822)
-* [Cicak Bin Kadal](../)
+* [My Repository](../)
 
 ## Youtube Playlist
 
